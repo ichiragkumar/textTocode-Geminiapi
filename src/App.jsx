@@ -66,7 +66,7 @@ function App() {
       <div className="w-full  text-center rounded bg-gray-700 border-2 m-2 flex justify-between">
           
           <div>
-          <ReactMarkdown className="p-3 text-gray-200 tsext-left">{answer}</ReactMarkdown>
+          <ReactMarkdown className="p-3 text-gray-200 text-left">{answer}</ReactMarkdown>
           </div>
           <div className="bg-gray-700 h-20 ">
             <button className="ring-2 ring-black border-1 border-gray-400 text-gray-200 rounded-md text-xl p-2 m-2">Javascript</button><br />
